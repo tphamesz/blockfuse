@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-
+// check the readme file on how to run the project on https://github.com/tphamesz/blockfuse
 contract FundTransfer {
     // Event to emit when a transfer occurs
     event Transfer(address indexed from, address indexed to, uint256 amount);
