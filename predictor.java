@@ -15,7 +15,7 @@ import lombok.*;
 import javax.persistence.*;
 import java.time.LocalDateTime;
 import java.util.*;
-
+//check the readme file on how to run the project on https://github.com/tphamesz/blockfuse
 @SpringBootApplication
 @EnableCaching
 public class FootballPredictionApplication {
